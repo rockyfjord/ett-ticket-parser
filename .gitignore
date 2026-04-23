@@ -2,6 +2,11 @@ venv/
 __pycache__/
 .env
 
+# Ignore sqlite3 stuff
+*.db
+*.sqlite
+*.sqlite3
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
