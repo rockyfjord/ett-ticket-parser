@@ -35,3 +35,23 @@ def init_db():
 
 if __name__ == "__main__":
     init_db()
+
+
+# pyid
+# assignedtoname
+# problemdescription
+# pxcreatedatetime
+# intent
+# subintent
+# pxupdateoperator
+# ticketstatus
+# fulladdress
+# House Number
+# Pre-directional
+# Street Name
+# Street Types
+# Post-directional
+# Unit Designators
+# City
+# State
+# Zip 
